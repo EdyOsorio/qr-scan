@@ -1,1 +1,2 @@
 heloo
+let text =ooo;
